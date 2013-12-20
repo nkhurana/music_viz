@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Major Version</key><integer>1</integer>
+    <key>Minor Version</key><integer>1</integer>
+    <key>Date</key><date>2013-10-12T19:37:30Z</date>
+    <key>Application Version</key><string>11.1.1</string>
+    <key>Features</key><integer>5</integer>
+    <key>Show Content Ratings</key><true/>
+    <key>Music Folder</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/</string>
+    <key>Library Persistent ID</key><string>CF8BA85BA1ADBB4F</string>
+    <key>Tracks</key>
+    <dict>
+        <key>2604</key>
+        <dict>
+            <key>Track ID</key><integer>2604</integer>
+            <key>Name</key><string>Thus Sprach Zarathustra</string>
+            <key>Artist</key><string>2001: A Space Odyssey</string>
+            <key>Kind</key><string>AAC audio file</string>
+            <key>Size</key><integer>1676485</integer>
+            <key>Total Time</key><integer>105653</integer>
+            <key>Track Number</key><integer>21</integer>
+            <key>Track Count</key><integer>21</integer>
+            <key>Date Modified</key><date>2008-07-12T22:17:34Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:49Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Play Count</key><integer>1</integer>
+            <key>Play Date</key><integer>3409336801</integer>
+            <key>Play Date UTC</key><date>2012-01-14T05:00:01Z</date>
+            <key>Persistent ID</key><string>B40C176F291A5914</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2001_%20A%20Space%20Odyssey/Unknown%20Album/21%20Thus%20Sprach%20Zarathustra.m4a</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+                <key>2606</key>
+        <dict>
+            <key>Track ID</key><integer>2606</integer>
+            <key>Name</key><string>Changes (clean)</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Album</key><string>2pac's Greatest Hits</string>
+            <key>Genre</key><string>Other</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4382561</integer>
+            <key>Total Time</key><integer>268904</integer>
+            <key>Date Modified</key><date>2007-07-31T18:48:32Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:49Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Artwork Count</key><integer>1</integer>
+            <key>Persistent ID</key><string>CF09A35875769942</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/2pac's%20Greatest%20Hits/Changes%20(clean).mp3</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2608</key>
+        <dict>
+            <key>Track ID</key><integer>2608</integer>
+            <key>Name</key><string>Wonder why they call you bitch</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Album</key><string>2pac's Greatest Hits</string>
+            <key>Genre</key><string>Rap</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>4230372</integer>
+            <key>Total Time</key><integer>258847</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:27Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:49Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Volume Adjustment</key><integer>1</integer>
+            <key>Comments</key><string>                            </string>
+            <key>Artwork Count</key><integer>1</integer>
+            <key>Persistent ID</key><string>B071EBC157AEE064</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/2pac's%20Greatest%20Hits/Wonder%20why%20they%20call%20you%20bitch.mp3</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2610</key>
+        <dict>
+            <key>Track ID</key><integer>2610</integer>
+            <key>Name</key><string>Paparazzi</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Album</key><string>Audio CD</string>
+            <key>Genre</key><string>Rap</string>
+            <key>Kind</key><string>AAC audio file</string>
+            <key>Size</key><integer>4481070</integer>
+            <key>Total Time</key><integer>276880</integer>
+            <key>Track Number</key><integer>14</integer>
+            <key>Track Count</key><integer>18</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:24Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:50Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Play Count</key><integer>5</integer>
+            <key>Play Date</key><integer>3431701124</integer>
+            <key>Play Date UTC</key><date>2012-09-29T01:18:44Z</date>
+            <key>Skip Count</key><integer>1</integer>
+            <key>Skip Date</key><date>2012-03-04T16:54:23Z</date>
+            <key>Persistent ID</key><string>3BB52B52E4F2889C</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/Audio%20CD/14%20Paparazzi.m4a</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2612</key>
+        <dict>
+            <key>Track ID</key><integer>2612</integer>
+            <key>Name</key><string>My Block (Remix)</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Album</key><string>Better Dayz</string>
+            <key>Genre</key><string>Rap</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>7742693</integer>
+            <key>Total Time</key><integer>322586</integer>
+            <key>Year</key><integer>2002</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:25Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:50Z</date>
+            <key>Bit Rate</key><integer>192</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Comments</key><string>RNS Team</string>
+            <key>Play Count</key><integer>2</integer>
+            <key>Play Date</key><integer>3425236709</integer>
+            <key>Play Date UTC</key><date>2012-07-16T05:38:29Z</date>
+            <key>Skip Count</key><integer>1</integer>
+            <key>Skip Date</key><date>2012-05-16T21:33:46Z</date>
+            <key>Persistent ID</key><string>4E0B98B1A6D6FBFE</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/Better%20Dayz/My%20Block%20(Remix).mp3</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2614</key>
+        <dict>
+            <key>Track ID</key><integer>2614</integer>
+            <key>Name</key><string>Keep Ya Head Up</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Album</key><string>Greatest Hits</string>
+            <key>Genre</key><string>Hip-Hop</string>
+            <key>Kind</key><string>MPEG audio file</string>
+            <key>Size</key><integer>5287776</integer>
+            <key>Total Time</key><integer>264359</integer>
+            <key>Track Number</key><integer>1</integer>
+            <key>Year</key><integer>1998</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:25Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:50Z</date>
+            <key>Bit Rate</key><integer>160</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Volume Adjustment</key><integer>1</integer>
+            <key>Comments</key><string>Gj-RNS Ripper</string>
+            <key>Persistent ID</key><string>1BC1C7CC625607CC</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/Greatest%20Hits/01%20Keep%20Ya%20Head%20Up.mp3</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2616</key>
+        <dict>
+            <key>Track ID</key><integer>2616</integer>
+            <key>Name</key><string>Changes</string>
+            <key>Artist</key><string>2pac</string>
+            <key>Genre</key><string>Rap</string>
+            <key>Kind</key><string>AAC audio file</string>
+            <key>Size</key><integer>4369199</integer>
+            <key>Total Time</key><integer>271426</integer>
+            <key>Track Number</key><integer>1</integer>
+            <key>Track Count</key><integer>16</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:28Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:52Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Play Count</key><integer>3</integer>
+            <key>Play Date</key><integer>3433949793</integer>
+            <key>Play Date UTC</key><date>2012-10-25T01:56:33Z</date>
+            <key>Skip Count</key><integer>7</integer>
+            <key>Skip Date</key><date>2012-10-26T17:22:39Z</date>
+            <key>Persistent ID</key><string>BA316F13E1EBDB4E</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/Unknown%20Album/01%20Changes.m4a</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+        <key>2618</key>
+        <dict>
+            <key>Track ID</key><integer>2618</integer>
+            <key>Name</key><string>Dear Mamma </string>
+            <key>Artist</key><string>2pac</string>
+            <key>Genre</key><string>Rap</string>
+            <key>Kind</key><string>AAC audio file</string>
+            <key>Size</key><integer>4513825</integer>
+            <key>Total Time</key><integer>280626</integer>
+            <key>Track Number</key><integer>2</integer>
+            <key>Track Count</key><integer>16</integer>
+            <key>Date Modified</key><date>2011-08-17T17:05:28Z</date>
+            <key>Date Added</key><date>2011-08-05T02:37:52Z</date>
+            <key>Bit Rate</key><integer>128</integer>
+            <key>Sample Rate</key><integer>44100</integer>
+            <key>Play Count</key><integer>4</integer>
+            <key>Play Date</key><integer>3433944975</integer>
+            <key>Play Date UTC</key><date>2012-10-25T00:36:15Z</date>
+            <key>Skip Count</key><integer>3</integer>
+            <key>Skip Date</key><date>2012-09-01T10:36:23Z</date>
+            <key>Persistent ID</key><string>A3227FDAABD6C798</string>
+            <key>Track Type</key><string>File</string>
+            <key>Location</key><string>file://localhost/Users/oshidary/Music/iTunes/iTunes%20Media/Music/2pac/Unknown%20Album/02%20Dear%20Mamma.m4a</string>
+            <key>File Folder Count</key><integer>5</integer>
+            <key>Library Folder Count</key><integer>1</integer>
+        </dict>
+    </dict>
+</dict>
+</plist>
